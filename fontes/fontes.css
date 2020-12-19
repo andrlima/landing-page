@@ -1,4 +1,11 @@
 @font-face{ 
+    font-family: "";
+
+    src: local(), url();
+    
+}
+
+@font-face{ 
     font-family: "Bebas";
 
     src: local(Bebas), url(BebasKai.otf);
@@ -54,12 +61,6 @@
     
 }
 
-@font-face{ 
-    font-family: "";
-
-    src: local(), url();
-    
-}
 
 @font-face{ 
     font-family: "Sources Sans";
@@ -75,5 +76,18 @@
     
 }
 
+@font-face{ 
+    font-family: "louis";
+
+    src: local(louis), url(../fontes/Louis\ George\ Cafe.ttf);
+    
+}
+
+@font-face{ 
+    font-family: "MADE";
+
+    src: local(made), url(../fontes/MADE\ Soulmaze\ italic\ PERSONAL\ USE.otf);
+    
+}
 
 
