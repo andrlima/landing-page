@@ -1,0 +1,56 @@
+
+.estatistica{
+    background: #012850;
+    height: 500px;
+
+}
+
+.sob-fundo-estatistica{
+    width: 100%;
+    height: 100%;
+    border-radius: 0 0 350px 350px;
+    background-color: #08315a;
+
+}
+
+.titulo-valor{
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+    top: 90px;
+    font-family: "Releway";
+ 
+}
+
+.titulo-valor #tt-valor{
+    font-weight: bold;
+}
+
+.div-valores{
+    text-align: center;
+    color: #fff;
+    position: relative;
+    top: 180px;
+   
+}
+
+.dados-valor{
+    width: 250px;
+    display: inline-block;
+    margin: 20px;
+    font-family: "Sources Sans";
+    font-weight: bold;
+   
+}
+
+.valor-numero{
+    font-size: 60px;
+}
+
+.dados-valor .valor-descricao{
+    font-size: 20px;
+    font-family: "Sources Sans";
+    opacity: 40%;
+    margin: 10px;
+}

@@ -1,0 +1,64 @@
+.grade{
+    height: 750px;
+    width: 100%;
+
+}
+
+.conteudo-base{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 150px;
+
+}
+
+.conteudo-grade{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+    left: 25px;
+}
+
+.img-dupla{
+    height: 580px;
+    width: 300px;
+
+}
+
+.img-quadrado-01{
+    margin-bottom: 20px;
+ 
+}
+
+.img-quadrado-01 img{
+    width: 100%;
+    height: 100%;
+}
+
+.img-quadrado-02{
+ 
+    margin: auto;
+
+}
+
+.img-quadrado-02 img{
+    width: 100%;
+}
+
+.img-unica{
+    padding: 20px;
+
+}
+
+.img-quadrado-03{
+    width: 290px;
+    
+}
+
+.img-quadrado-03 img{
+    width: 100%;
+    height: 500px;
+
+}

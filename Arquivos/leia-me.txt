@@ -1,0 +1,16 @@
+O foco deste teste é avaliar a qualidade do css e javacript do candidato.
+
+Neste teste não pode usar nenhum framework de css.
+Pode usar sass, mas deverá ser entregue o css compilado.
+Pode usar jquery.
+
+O layout da landing page está nos arquivos .psd e .png.
+As fontes usadas podem ser encontradas no google fonts.
+Os espaços cinzas deverão ser preenchidos com imagens no mesmo formato.
+O espaço do vídeo deverá conter algum vídeo do youtube.
+
+O layout possui versão desktop e mobile, o candidato é livre para organizar o layout entre os breakpoints desktop e mobile de forma a manter o mesmo padrão do layout.
+
+O menu na versão mobile o candidato também é livre para desenvolver.
+
+O teste deverá ser entregue em 2 dias.

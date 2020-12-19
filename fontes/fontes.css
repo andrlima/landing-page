@@ -1,0 +1,79 @@
+@font-face{ 
+    font-family: "Bebas";
+
+    src: local(Bebas), url(BebasKai.otf);
+    
+}
+
+@font-face{ 
+    font-family: "Bebas Kai";
+
+    src: local(BebasKai), url(BebasKai.ttf);
+    
+}
+
+@font-face{ 
+    font-family: "Boris black";
+
+    src: local(Boris black), url(BorisBlackBloxx.ttf);
+    
+}
+
+@font-face{ 
+    font-family: "Boris black box";
+
+    src: local(Boris black box), url(BorisBlackBloxxDirty.ttf);
+    
+}
+
+@font-face{ 
+    font-family: "Boris black box";
+
+    src: local(Boris black box), url(BorisBlackBloxxDirty.ttf);
+    
+}
+
+@font-face{ 
+    font-family: "Neufreit";
+
+    src: local(Neufreit), url(Neufreit-ExtraBold.otf);
+    
+}
+
+@font-face{ 
+    font-family: "Pointfree";
+
+    src: local(Pointfree), url(pointfree.ttf);
+    
+}
+
+@font-face{ 
+    font-family: "Cherry";
+
+    src: local(Cherry), url(Cherry\ Monospace-Light.ttf);
+    
+}
+
+@font-face{ 
+    font-family: "";
+
+    src: local(), url();
+    
+}
+
+@font-face{ 
+    font-family: "Sources Sans";
+
+    src: local(sources sans), url(SourceSansPro-Regular.otf);
+    
+}
+
+@font-face{ 
+    font-family: "Releway";
+
+    src: local(Releway), url(Raleway-Regular.ttf);
+    
+}
+
+
+
