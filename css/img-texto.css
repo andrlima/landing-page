@@ -21,21 +21,44 @@
 }
 
 .img-texto-principal{
-    background:#E4EE91;
-    width: 500px;
+    width: 480px;
     margin: auto;
     font-family: "Ubuntu";
     position: relative;
+    top: 120px;
  
-    
 }
 
 .img-texto-principal h1{
-    font-size: 50px;
+    font-size: 47px;
     font-weight: bolder;
-
+    color: #012850;
+    margin-bottom: 25px;
+  
 }
 
 #img-txt-linha03{
     font-weight: bolder;
+    font-size: 19px;
+    color: #012850c7;
+    margin-bottom: 25px;
+
+}
+
+.texto-lado-direito{
+    color:#436a92;
+    font-size: 19px;
+
+}
+
+.img-txt-paragrafo{
+    margin-bottom: 25px;
+
+}
+
+.texto-bold{
+    font-weight: bolder;
+    color: #436a92;
+
+    
 }
