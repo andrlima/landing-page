@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
-
 
 .secti-img-texto{
     background: blue;
@@ -8,6 +6,12 @@
 }
 
 .img-lorem{
+    background: pink;
+    background: url("../img/00.jpeg")  center/ cover;
+    height: 550px;
+    width: 50%;
+    float: left;
+
 
 
 }
