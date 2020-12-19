@@ -1,26 +1,41 @@
 
 .secti-img-texto{
-    background: blue;
-    height: 550px;
+    height: 650px;
      
 }
 
 .img-lorem{
-    background: pink;
     background: url("../img/00.jpeg")  center/ cover;
-    height: 550px;
+    height: 650px;
     width: 50%;
     float: left;
-
-
 
 }
 
 .texto-lorem{
-
+    background: #eaeff6;
+    height: 650px;
+    width: 50%;
+    float: left;
 
 }
 
 .img-texto-principal{
+    background:#E4EE91;
+    width: 500px;
+    margin: auto;
+    font-family: "Ubuntu";
+    position: relative;
+ 
+    
+}
 
+.img-texto-principal h1{
+    font-size: 50px;
+    font-weight: bolder;
+
+}
+
+#img-txt-linha03{
+    font-weight: bolder;
 }
