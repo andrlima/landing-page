@@ -35,14 +35,14 @@
 .texto-video-01{
   margin: 30px;
   width: 370px;
-  text-align: justify;;
+  
 
 }
 
 .texto-video-02{  
   font-size: 18px;
-  width: 400px;
-  font-family: "Louis";
+  width: 430px;
+  font-family: "Ubuntu";
   margin: 30px;
 
 }
@@ -50,15 +50,14 @@
 .texto-video h1{
   margin-bottom: 20px;
   color: #002e5c;
-  font-family: "Arial", sans-serif;
-  
+  font-family: "Ubuntu";
   font-size: 35px;
 
 }
 
 .texto-titulo{
   font-weight: bold;
-  color: #002e5c;
+  color: #02182d;;
 
 }
  

@@ -6,14 +6,13 @@
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+
     
 }
 
 /* ============================= Logo da nav */ 
 .logo{
     width: 180px;
-    position: relative;
-    right: 20px;
     float: left;
 
 }
@@ -21,8 +20,8 @@
 .logo a{
     text-decoration: none;
     position: relative;
-    top: 25px;
-    left: 50px;
+    top: 28px;
+    right: 30px;
     
 }
 /* =============================  Imagem logo */
@@ -42,8 +41,8 @@
 }
 
 #sp-logo{
-    font-family: "MADE";
-    font-size: 20px;
+    font-family: "Ubuntu";
+    font-size: 30px;
 
 }
 
@@ -56,11 +55,10 @@
 /* ============================== Lista com os links itens */ 
 .menu-lista{
     position: relative;
-    left: 145px;
+    left: 115px;
     top: 10px;
-
     font-family: "louis";
-
+    
 }
 
 .menu-lista ul{
@@ -78,7 +76,7 @@
     padding: 1em;
     color: #fff;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 18px;
     font-weight: bold;
     
 }

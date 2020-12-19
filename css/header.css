@@ -1,9 +1,4 @@
-@font-face{ 
-    font-family: "built";
 
-    src: local(built), url(../fontes/built\ titling\ bd.ttf);
-    
-}
 
 .fundo-header{
     background: url("../img/fundo-header.png")  center/ cover;

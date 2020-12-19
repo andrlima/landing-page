@@ -1,17 +1,17 @@
 
-function iniciarContador(m_init){
+function cronometro(tempo){
     var dias = document.getElementById("dias");
     var horas = document.getElementById("horas");
     var minutos = document.getElementById("minutos");
     var segundos = document.getElementById("segundos");
   
-    dias.innerHTML = ((m_init - 1) > 9) ? ("" + (m_init - 1)) : ("0" + (m_init - 1));
-    horas.innerHTML = ((m_init - 1) > 9) ? ("" + (m_init - 1)) : ("0" + (m_init - 1));
-    minutos.innerHTML = ((m_init - 1) > 9) ? ("" + (m_init - 1)) : ("0" + (m_init - 1));
-    segundos.innerHTML = ((m_init - 1) > 9) ? ("" + (m_init - 1)) : ("0" + (m_init - 1));
+    dias.innerHTML = ((tempo - 1) > 9) ? ("" + (tempo - 1)) : ("0" + (tempo - 1));
+    horas.innerHTML = ((tempo - 1) > 9) ? ("" + (tempo - 1)) : ("0" + (tempo - 1));
+    minutos.innerHTML = ((tempo - 1) > 9) ? ("" + (tempo - 1)) : ("0" + (tempo - 1));
+    segundos.innerHTML = ((tempo - 1) > 9) ? ("" + (tempo - 1)) : ("0" + (tempo - 1));
 
-    var d = m_init - 1;
-    var h = 59;
+    var d = tempo - 1;
+    var h = 23;
     var min = 59
     var seg = 59;
 
@@ -38,16 +38,16 @@ function iniciarContador(m_init){
         else if(seg == 0 && min == 0 && h == 0 && d > 0){
             seg = 59;
             min = 59;
-            h = 59;
+            h = 23;
             d -= 1;
         }
         else{
-            d = m_init;
+            d = tempo;
         }
 
-    }, 100)
+    }, 1000)
 
 
 }
 
-iniciarContador(10);
+cronometro(10);

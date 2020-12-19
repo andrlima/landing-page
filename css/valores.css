@@ -19,7 +19,7 @@
     text-align: center;
     position: relative;
     top: 90px;
-    font-family: "Releway";
+    font-family: "Ubuntu";
  
 }
 
@@ -32,6 +32,7 @@
     color: #fff;
     position: relative;
     top: 180px;
+    left: 30px;
    
 }
 
@@ -39,18 +40,21 @@
     width: 250px;
     display: inline-block;
     margin: 20px;
-    font-family: "Sources Sans";
-    font-weight: bold;
+    
    
 }
 
 .valor-numero{
     font-size: 60px;
+    font-family: "Ubuntu";
+    font-weight: bolder;
+   
 }
 
-.dados-valor .valor-descricao{
+ .valor-descricao{
+    font-family: "Ubuntu";
     font-size: 20px;
-    font-family: "Sources Sans";
     opacity: 40%;
     margin: 10px;
+    
 }
