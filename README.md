@@ -10,4 +10,3 @@ Em adandamento...
 
 
 Ainda não está concluído, está faltando fazer a parte responsiva, fazer a parte mobile, acertar algumas section, divs, centralizar aqui e ali.
-Modificar bastante coisa ainda. Mas está sendo ótimo para o aprendizado.
